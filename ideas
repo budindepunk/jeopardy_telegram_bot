@@ -1,0 +1,6 @@
+-- tiene que identificar respuestas correctas ignorando "the" o "a"
+-- tiene que ignorar "-" en palabras compuestas, por ejemplo "barn-burner" tendria que ser correcta si dice "barnburner" o "barn burner"
+-- aceptar si dicen solo el apellido?
+-- typos??? capaz si la palabra es muy parecida que diga "check spelling" y le de la chance al usuario de ganar
+
+-- elegir por categoria: le pedis /category y te da a elegir 2, te da alguna pregunta de esa (telegram tiene eso de los botones, ver)
